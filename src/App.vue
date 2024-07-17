@@ -12,7 +12,8 @@ import Demo2 from "./views/Demo2.vue";
 export default {
   name: "App",
   components: {
-    Demo1
+    Demo1,
+    Demo2
   }
 };
 </script>
